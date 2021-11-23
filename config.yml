@@ -1,7 +1,8 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://functionofx.github.io/'
 languageCode: 'en-uk'
 title: 'Haiping Yang'
 theme: PaperMod
+publishDir: "./docs"
 
 menu:
   main:
@@ -19,22 +20,21 @@ menu:
       weight: 3
 
 params:
-    profileMode:
-        enabled: true
-        title: "Haiping Yang" # optional default will be site title
-        subtitle: "Email : hy2313@ic.ac.uk"
-        # imageUrl: "<image link>" # optional
-        # imageTitle: "<title of image as alt>" # optional
-        # imageWidth: 120 # custom size
-        # imageHeight: 120 # custom size
-        buttons:
-            # - name: Archive
-            # url: "/archive"
-            # - name: Github
-            # url: "https://github.com/"
-
-    socialIcons: # optional
-        - name: github
-          url: "https://github.com/FunctionOfX"
-        # - name: "<platform 2>"
-            # url: "<link2>"
+  profileMode:
+      enabled: true
+      title: "Haiping Yang" # optional default will be site title
+      subtitle: "Email : hy2313@ic.ac.uk"
+      # imageUrl: "<image link>" # optional
+      # imageTitle: "<title of image as alt>" # optional
+      # imageWidth: 120 # custom size
+      # imageHeight: 120 # custom size
+      buttons:
+          # - name: Archive
+          # url: "/archive"
+          # - name: Github
+          # url: "https://github.com/"
+  socialIcons: # optional
+      - name: github
+        url: "https://github.com/FunctionOfX"
+      # - name: "<platform 2>"
+          # url: "<link2>"
