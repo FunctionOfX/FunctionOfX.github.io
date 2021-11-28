@@ -22,7 +22,7 @@ url: "/papersandnotes/"
     
       Some notes I have taken for algebraic K-theory. But in all honesty, I don't remember anything about it at all. 
 
-    - [Modular Representation Theory of Finite Groups](\pdfs\M4R.pdf)
+    - [Modular Representation Theory of Finite Groups](/pdfs/M4R.pdf)
      
       M4R project I did with Prof. Alexander Ivanov during my final undergraduate year. 
 
