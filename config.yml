@@ -14,9 +14,9 @@ menu:
       name: Papers and Notes
       url: /papersandnotes/
       weight: 2
-    - identifier: CV
+    - identifier: cv
       name: CV
-      url: /CV/
+      url: /cv/
       weight: 3
 
 params:
@@ -37,5 +37,4 @@ params:
       - name: github
         url: "https://github.com/FunctionOfX"
       - name: "email"
-        url: "hy2313@ic.ac.uk"
-        
+        url: "mailto:hy2313@ic.ac.uk"

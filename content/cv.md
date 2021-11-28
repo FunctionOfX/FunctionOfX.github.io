@@ -1,23 +1,25 @@
 ---
 title: "Short CV"
-url: "/CV/"
+url: "/cv/"
 ---
 
-### Education
-## Imperical College London
-# PhD in Maths
-# Industrial Strategy EPSCR Scholarship,
-# 2018-2022
-# Representation Theory
-# Supervisor: Travis Schedler
 
-## Univeristy of Southern California
-# PhD in Maths
-# 2017-2018 (unfinished)
+- Eduction
+    - Imperial College London
+        - PhD in Mathematics
+        - 2018-2022
+        - Supervisor: Travis Schedler
+        - Research Area: Representation Theory
+        - Industrial Strategy EPSCR Scholarship 
+  
+    - University of Southern California
+        - PhD in Maths
+        - 2017-2018 (unfinished)
 
-## Imperical College London
-# Msci in Maths
-# Rector’s Undergraduate Scholarship
-# 2013-2017
-# First Class Honour
-# Master Project: Modular Representation Theory of Finite Groups (with Alexander Ivanov)
+    - Imperial College London
+        - MSci in Maths
+        - First Class Honour
+        - 2013-2017
+        - Rector’s Undergraduate Scholarship
+        - Master Project: Modular Representation Theory of Finite Groups (with Alexander Ivanov)
+  

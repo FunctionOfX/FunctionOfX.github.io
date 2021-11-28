@@ -12,4 +12,4 @@ I am interested (geometric) representation theory in general. More specifically,
 ### Life Story
 I was born in Heilongjiang, China, and lived there until 2009. After that I lived in Poole, UK until I went to London for univeristy in 2013. 
 ### Other Interests
-I used to watch a ton of anime, so I can speak and understand so basic Japanese. But as the current seasons are getting very generic, I am more into reading, watching movies and cooking (especially baking). 
+I used to watch a ton of anime, so I can speak and understand some basic Japanese. I am more into things like reading, watching movies and cooking (especially baking). 
