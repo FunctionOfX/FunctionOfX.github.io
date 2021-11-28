@@ -6,7 +6,7 @@ url: "/papersandnotes/"
 - Papers and Preprints
     - [Hochschild--de Rham Homology]
     
-      This will be my second paper, which is on a generlisation of Poisson--de Rham Homology of Schedler--Etingof. Coming up soon...
+      This will be my second paper, which is on a generalisation of Poisson--de Rham Homology of Schedler--Etingof. Coming up soon...
     
     - [On the Derived Ring of Differential Operators on a Singularity](https://arxiv.org/pdf/2110.03100.pdf)
     
