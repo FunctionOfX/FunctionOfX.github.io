@@ -36,5 +36,5 @@ params:
   socialIcons: # optional
       - name: github
         url: "https://github.com/FunctionOfX"
-      # - name: "<platform 2>"
-          # url: "<link2>"
+      - name: "email"
+        url: "hy2313@ic.ac.uk"
