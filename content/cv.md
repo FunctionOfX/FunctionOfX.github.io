@@ -12,11 +12,11 @@ url: "/cv/"
         - Industrial Strategy EPSCR Scholarship 
   
     - University of Southern California
-        - PhD in Maths
+        - PhD in Mathematics
         - 2017-2018 (unfinished)
 
     - Imperial College London
-        - MSci in Maths
+        - MSci in Mathematics
         - First Class Honour
         - 2013-2017
         - Rector’s Undergraduate Scholarship
