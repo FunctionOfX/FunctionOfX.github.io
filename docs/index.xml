@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Haiping Yang</title>
-    <link>https://functionofx.github.io/</link>
+    <link>https://haiping-yang.github.io/</link>
     <description>Recent content on Haiping Yang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="https://functionofx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language><atom:link href="https://haiping-yang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://functionofx.github.io/aboutme/</link>
+      <link>https://haiping-yang.github.io/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://functionofx.github.io/aboutme/</guid>
+      <guid>https://haiping-yang.github.io/aboutme/</guid>
       <description>Name My name is 杨 海平 (Yang Haiping), where the firstname is from a Chinese poem 春江花月夜. The first character 海 means &amp;lsquo;sea/ocean&amp;rsquo;, and the second character 平 means &amp;lsquo;clam/flat&amp;rsquo;.
 Research I am interested (geometric) representation theory in general. More specifically, I am interested in the theory of $D$-modules and its applications in representation theory.
 Life Story I was born in Heilongjiang, China, and lived there until 2009. After that I lived in Poole, UK until I went to London for univeristy in 2013.</description>
@@ -19,10 +19,10 @@ Life Story I was born in Heilongjiang, China, and lived there until 2009. After 
     
     <item>
       <title>Papers and Notes</title>
-      <link>https://functionofx.github.io/papersandnotes/</link>
+      <link>https://haiping-yang.github.io/papersandnotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://functionofx.github.io/papersandnotes/</guid>
+      <guid>https://haiping-yang.github.io/papersandnotes/</guid>
       <description>Papers and Preprints
   [Hochschild&amp;ndash;de Rham Homology]
 This will be my second paper, which is on a generalisation of Poisson&amp;ndash;de Rham Homology of Schedler&amp;ndash;Etingof. Coming up soon&amp;hellip;
@@ -34,10 +34,10 @@ My first paper, which is on the cateogry of D-modules on singular varieties view
     
     <item>
       <title>Short CV</title>
-      <link>https://functionofx.github.io/cv/</link>
+      <link>https://haiping-yang.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://functionofx.github.io/cv/</guid>
+      <guid>https://haiping-yang.github.io/cv/</guid>
       <description> Eduction   Imperial College London
  PhD in Mathematics 2018-2022 Supervisor: Travis Schedler Research Area: Representation Theory Industrial Strategy EPSCR Scholarship    University of Southern California
  PhD in Maths 2017-2018 (unfinished)    Imperial College London
