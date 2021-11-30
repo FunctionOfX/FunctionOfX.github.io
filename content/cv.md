@@ -9,7 +9,7 @@ url: "/cv/"
         - 2018-2022
         - Supervisor: Travis Schedler
         - Research Area: Representation Theory
-        - Industrial Strategy EPSCR Scholarship 
+        - Industrial Strategy EPSRC Scholarship 
   
     - University of Southern California
         - PhD in Mathematics
