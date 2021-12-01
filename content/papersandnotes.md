@@ -25,12 +25,17 @@ url: "/papersandnotes/"
    
     M4R project I did with Prof. Alexander Ivanov during my final undergraduate year. 
 
+- Seminars Orgainsed
+  - Braid Group Actions on Categories
+    
+    Aimed at Imperial undergraduate students, Imperial, 06/2021-08/2021
+
 - Talks
   - [Derived Ring of Differential Operators]
     
     Algebra Seminar, Stuttgard, 18/01/2022
 
-  - [D-mods and Kazhdan—Lusztig Conjectures]
+  - [D-mods and Kazhdan—-Lusztig Conjectures]
 
     KCL/UCL geometry seminar, Spring 2022
 
