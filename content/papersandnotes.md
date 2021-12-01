@@ -46,7 +46,7 @@ url: "/papersandnotes/"
 
     Braid group action on categories learning seminar, Imperial, 17/06/2021
 
-  - [D-mods](/pdfs/D-mod%2013-05-2021/pdf)
+  - [D-mods](/pdfs/D-mod%2013-05-2021.pdf)
 
     Braid group action on categories learning seminar, Imperial, 13/05/2021
 
