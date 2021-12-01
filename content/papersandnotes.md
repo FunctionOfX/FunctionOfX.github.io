@@ -30,7 +30,7 @@ url: "/papersandnotes/"
     
     Algebra Seminar, Stuttgard, 18/01/2022
 
-  - [D-mods and Kazhdan—-Lusztig Conjectures]
+  - [D-mods and Kazhdan--Lusztig Conjectures]
 
     KCL/UCL geometry seminar, Spring 2022
 
