@@ -34,7 +34,7 @@ params:
           # - name: Github
           # url: "https://github.com/"
   socialIcons: # optional
-      - name: github
-        url: "https://github.com/FunctionOfX"
+      # - name: github
+        # url: "https://github.com/FunctionOfX"
       - name: "email"
         url: "mailto:hy2313@ic.ac.uk"
