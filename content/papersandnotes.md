@@ -16,7 +16,7 @@ url: "/papersandnotes/"
 - Notes   
   - [Symplectic Representation Theory](https://www.overleaf.com/read/smbkcqdckxhv)
   
-    Notes for a TCC course taught by my PhD supervisor Travis Schedler. It is highly incomplete and probably not readable, quite possibly contain many misatakes too. I would like to go back to this and complete it at some point. 
+    Notes for a TCC course taught by my PhD supervisor Travis Schedler. It is highly incomplete and probably not readable, quite possibly contain many mistakes too. I would like to go back to this and complete it at some point. 
   
   - [Algebraic K-Theory](https://www.overleaf.com/read/gvhxswcvmxpp)
   
