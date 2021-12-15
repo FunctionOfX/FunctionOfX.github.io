@@ -3,7 +3,7 @@ title: "Short CV"
 url: "/cv/"
 ---
 
-- Eduction
+- Education
     - Imperial College London
         - PhD in Mathematics
         - 2018-2022

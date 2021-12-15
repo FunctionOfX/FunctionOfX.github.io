@@ -6,7 +6,7 @@ url: "/papersandnotes/"
 - Papers and Preprints
   - [Hochschild--de Rham Homology]
 
-    This will be my second paper, which is on a generalisation of Poisson--de Rham Homology of Schedler--Etingof. Coming up soon...
+    This will be my second paper, which is on a generalisation of Poisson--de Rham Homology of Etingof--Schedler. Coming up soon...
 
   - [On the Derived Ring of Differential Operators on a Singularity](https://arxiv.org/pdf/2110.03100.pdf)
 
@@ -36,6 +36,8 @@ url: "/papersandnotes/"
 
   - [Quiver varieties, Kac--Moody action and Symplectic resolutions](/pdfs/Talk%2026.11.2021%20Nakajima%20Quiver%20Varieties.pdf)
 
+    I also took [notes](/pdfs/Braid%20group%20action%20on%20categories%20-%20learning%20seminar.pdf) for the whole learning seminar.
+    
     CKL learning seminar, Imperial, 26/11/2021
 
   - [Siedel--Thomas](/pdfs/Seidel%20Thomas.pdf)
