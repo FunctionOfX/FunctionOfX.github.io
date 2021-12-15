@@ -36,9 +36,9 @@ url: "/papersandnotes/"
 
   - [Quiver varieties, Kac--Moody action and Symplectic resolutions](/pdfs/Talk%2026.11.2021%20Nakajima%20Quiver%20Varieties.pdf)
 
-    I also took [notes](/pdfs/Braid%20group%20action%20on%20categories%20-%20learning%20seminar.pdf) for the whole learning seminar.
-    
     CKL learning seminar, Imperial, 26/11/2021
+    
+    (I also took [notes](/pdfs/Braid%20group%20action%20on%20categories%20-%20learning%20seminar.pdf) for the whole learning seminar.)
 
   - [Siedel--Thomas](/pdfs/Seidel%20Thomas.pdf)
 
