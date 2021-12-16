@@ -15,4 +15,4 @@ My research statement can be found [here](/pdfs/Research_Statement.pdf) (last up
 I was born in Heilongjiang, China, and lived there until 2009. 
 After that, I lived in Poole, UK, until I went to London for university in 2013. 
 ### Other Interests
-I used to watch a ton of anime, so I can speak and understand some basic Japanese. Nowadays I am more into things like reading, watching movies and cooking (especially baking). 
+I used to watch a lot of anime, so I can speak and understand some basic Japanese. Nowadays I am more into things like reading, watching movies and cooking (especially baking). 
