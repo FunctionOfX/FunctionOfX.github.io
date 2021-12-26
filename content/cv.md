@@ -6,7 +6,7 @@ url: "/cv/"
 - Education
     - Imperial College London
         - PhD in Mathematics
-        - 2018-2022
+        - 2018-2022(expected)
         - Supervisor: Travis Schedler
         - Research Area: Representation Theory
         - Industrial Strategy EPSRC Scholarship 
