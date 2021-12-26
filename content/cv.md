@@ -21,7 +21,7 @@ url: "/cv/"
         - Rector’s Undergraduate Scholarship
         - Master Project: Modular Representation Theory of Finite Groups (with Alexander Ivanov)
   
-- Seminars Orgainsed
+- Seminars Organised
     - Braid Group Actions on Categories
     
       Aimed at Imperial undergraduate students, Imperial, 06/2021-08/2021
