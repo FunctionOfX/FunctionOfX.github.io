@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haiping Yang</title>
+    <link>https://functionofx.github.io/</link>
+    <description>Recent content on Haiping Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language><atom:link href="https://functionofx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://functionofx.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionofx.github.io/aboutme/</guid>
+      <description>Name My name is 杨 海平 (Yang Haiping), where the firstname is from a Chinese poem 春江花月夜. The first character 海 means &amp;lsquo;sea/ocean&amp;rsquo;, and the second character 平 means &amp;lsquo;calm/flat&amp;rsquo;.
+Work and Research Experience Currently I am a (quantitative) researcher at iSAM, working in the systematic equities group. Previously I was a Ph.D. student at Imperial College London doing pure maths.
+While I was doing my Ph.D., I was interested (geometric) representation theory in general.</description>
+    </item>
+    
+    <item>
+      <title>Papers and Notes</title>
+      <link>https://functionofx.github.io/papersandnotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionofx.github.io/papersandnotes/</guid>
+      <description>Papers and Preprints
+[Skeins on tori]
+A collaboration with Sam Gunningham, David Jordan and Monica Vazirani. We computed the dimension of $SL_n$-skein modules of the 3-dimensional torus, which has a beautiful connection to my second paper.
+[Hochschild&amp;ndash;de Rham Homology]
+This will be my second paper, which is on a generalisation of Poisson&amp;ndash;de Rham Homology of Etingof&amp;ndash;Schedler. Will post to Arxiv at some point&amp;hellip;
+On the Derived Ring of Differential Operators on a Singularity</description>
+    </item>
+    
+    <item>
+      <title>Short CV</title>
+      <link>https://functionofx.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionofx.github.io/cv/</guid>
+      <description>Work Experience:
+International Standard Asset Management 04/2023 - Current Quantitative Researcher in Systematic Equities Education:
+Imperial College London
+PhD in Mathematics 2018-2022 Supervisor: Prof. Travis Schedler Research Area: Representation Theory Industrial Strategy EPSRC Scholarship University of Southern California
+PhD in Mathematics 2017-2018 (unfinished) Imperial College London
+MSci in Mathematics First Class Honour 2013-2017 Rector’s Undergraduate Scholarship Master Project: Modular Representation Theory of Finite Groups (with Alexander Ivanov) Seminars Organised:</description>
+    </item>
+    
+  </channel>
+</rss>

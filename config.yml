@@ -1,0 +1,41 @@
+baseURL: 'https://functionofx.github.io/'
+relativeURLs: 'True'
+languageCode: 'en-uk'
+title: 'Haiping Yang'
+theme: PaperMod
+publishDir: './docs'
+
+menu:
+  main:
+    - identifier: me
+      name: About Me
+      url: /aboutme/
+      weight: 1
+    - identifier: papersandnote
+      name: Papers and Notes
+      url: /papersandnotes/
+      weight: 2
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 3
+
+params:
+  profileMode:
+      enabled: true
+      title: "Haiping Yang" # optional default will be site title
+      # subtitle: "Email : haipingyang95@gmail.com"
+      # imageUrl: "<image link>" # optional
+      # imageTitle: "<title of image as alt>" # optional
+      # imageWidth: 120 # custom size
+      # imageHeight: 120 # custom size
+      buttons:
+          # - name: Archive
+          # url: "/archive"
+          # - name: Github
+          # url: "https://github.com/"
+  socialIcons: # optional
+      - name: Linkedin
+        url: "https://www.linkedin.com/in/haiping-yang-636a2b130/"
+      - name: "email"
+        url: "mailto:haipingyang95@gmail.com"
