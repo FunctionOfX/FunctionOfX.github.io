@@ -1,5 +1,5 @@
 baseURL: 'https://functionofx.github.io/'
-relativeURLs: 'True'
+relativeURLs: true
 languageCode: 'en-uk'
 title: 'Haiping Yang'
 theme: PaperMod
