@@ -5,6 +5,10 @@ title: 'Haiping Yang'
 theme: PaperMod
 publishDir: './docs'
 
+
+
+
+
 menu:
   main:
     - identifier: me
@@ -21,6 +25,8 @@ menu:
       weight: 3
 
 params:
+  assets:
+    disableFingerprinting: true
   profileMode:
       enabled: true
       title: "Haiping Yang" # optional default will be site title
