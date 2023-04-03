@@ -4,7 +4,7 @@ url: "/papersandnotes/"
 ---
 
 - Papers and Preprints
-  - [Skeins on tori]
+  - [Skeins on Tori]
 
     A collaboration with Sam Gunningham, David Jordan and Monica Vazirani. We compute the dimension of $SL_n$-skein modules of the 3-dimensional torus, which has a beautiful connection to my second paper.
 
