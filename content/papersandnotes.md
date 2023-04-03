@@ -30,7 +30,7 @@ url: "/papersandnotes/"
     M4R project I did with Prof. Alexander Ivanov during my final undergraduate year. 
 
 - Talks
-  - [Applications of D-mods and holonomicity]
+  - [Applications of D-mods and Holonomicity]
 
     Representation Theory and Number Theory Seminar, National University of Singapore, 25/01/2022
 
