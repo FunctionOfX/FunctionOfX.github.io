@@ -6,11 +6,11 @@ url: "/papersandnotes/"
 - Papers and Preprints
   - [Skeins on tori]
 
-    A collaboration with Sam Gunningham, David Jordan and Monica Vazirani. We computed the dimension of $SL_n$-skein modules of the 3-dimensional torus, which has a beautiful connection to my second paper.
+    A collaboration with Sam Gunningham, David Jordan and Monica Vazirani. We compute the dimension of $SL_n$-skein modules of the 3-dimensional torus, which has a beautiful connection to my second paper.
 
   - [Hochschild--de Rham Homology]
 
-    This will be my second paper, which is on a generalisation of Poisson--de Rham Homology of Etingof--Schedler. Will post to Arxiv at some point...
+    This is my second paper, which is on a generalisation of Poisson--de Rham Homology of Etingof--Schedler. Will post to Arxiv at some point...
 
   - [On the Derived Ring of Differential Operators on a Singularity](https://arxiv.org/pdf/2110.03100.pdf)
 
